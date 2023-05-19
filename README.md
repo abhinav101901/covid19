@@ -6,16 +6,16 @@ https://splendid-entremet-d6c4f0.netlify.app/
 
 Project have some part this is show below:-
 
-##Home
-In this ypu simplay show the one head line and one button that is redirect to the Prevent block.
+###Home
+- In this ypu simplay show the one head line and one button that is redirect to the Prevent block.
 
-##Prevent
-1. In this you saw some advice how can you protect yourself from getting infected by covid virus?
-2. you can see here what you should and shouldn't do?
+###Prevent
+- In this you saw some advice how can you protect yourself from getting infected by covid virus?
+- you can see here what you should and shouldn't do?
 ##Symptoms
 
-##Precautions
+###Precautions
 
-##Doctor
+###Doctor
 
-##Hand-wash
+###Hand-wash
